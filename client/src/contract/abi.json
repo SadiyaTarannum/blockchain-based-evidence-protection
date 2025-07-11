@@ -1,0 +1,7 @@
+[
+  "event EvidenceSubmitted(uint256,address indexed,string,uint256)",
+  "function evidenceCount() view returns (uint256)",
+  "function evidences(uint256) view returns (string,uint256,address)",
+  "function getEvidence(uint256) view returns (string,uint256,address)",
+  "function submitEvidence(string)"
+]
