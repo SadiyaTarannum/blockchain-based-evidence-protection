@@ -11,4 +11,3 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
-[Click here to view the live app]:https://blockchain-based-evidence-protectio.vercel.app/
